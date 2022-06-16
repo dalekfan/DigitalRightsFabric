@@ -4,6 +4,8 @@
   "package": "net.fabricmc.digitalrightsf.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "ActiveTargetGoalMixin",
+    "TrackTargetGoalMixin"
   ],
   "client": [
     "DigitalRightsFMixin"
