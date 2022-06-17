@@ -10,7 +10,7 @@ import org.spongepowered.asm.mixin.injection.selectors.TargetSelector;
 /*@Mixin(TargetSelector.class)
 public class TargetSelectorMixin {
     @Inject(method = "", at  = @At("TAIL"), cancellable = true)
-    private void mixin(EntityType<?> type, CallbackInfoReturnable<Boolean> cir) {
+    private void mixin(EntityType<?> type, CallbackInfoReturnable<Boolean> cir) { bruh HELP
 
     }
 }*/
